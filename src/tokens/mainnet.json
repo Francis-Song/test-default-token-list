@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Pluto Token",
+    "address": "0x0c3ea5aac39101e5b3989b3f19181d8591b734d0",
+    "symbol": "PLUTO",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": ""
+  },
+  {
+    "name": "Pepe Token",
+    "address": "",
+    "symbol": "PEPE",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": ""
+  }
+
+]
