@@ -5,7 +5,7 @@ const testnet = require('./tokens/testnet.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'BEP20 Token List',
+    'name': 'Pepeswap Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -13,7 +13,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png',
+    'logoURI': 'https://francis-song.github.io/test-default-token-list/images/0x0c3ea5aac39101e5b3989b3f19181d8591b734d0.png',
     'keywords': [
       'pepeswap',
       'default'
