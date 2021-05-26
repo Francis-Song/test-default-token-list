@@ -7,12 +7,28 @@
       "patch": 29
     },
     "tags": {},
-    "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+    "logoURI": "https://francis-song.github.io/test-default-token-list/images/0x0c3ea5aac39101e5b3989b3f19181d8591b734d0.png",
     "keywords": [
-      "bscswap",
+      "pepeswap",
       "default"
     ],
     "tokens": [
+      {
+        "name": "BUSD Token",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+      },
+      {
+        "name": "Wrapped BNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+      },
       {
         "name": "Pluto Token",
         "address": "0x0c3ea5aac39101e5b3989b3f19181d8591b734d0",
@@ -22,52 +38,12 @@
         "logoURI": "https://francis-song.github.io/test-default-token-list/images/0x0c3ea5aac39101e5b3989b3f19181d8591b734d0.png"
       },
       {
-        "name": "BTCB Token",
-        "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
-        "symbol": "BTCB",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8.png"
-      },
-      {
-        "name": "BUSD Token",
-        "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
-        "symbol": "BUSD",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
-      },
-      {
-        "name": "Dai Token",
-        "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
-        "symbol": "DAI",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867.png"
-      },
-      {
-        "name": "EOS Token",
-        "address": "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
-        "symbol": "EOS",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0x6B043332090a6BE81De1503949Cfc8bac2cA1c33.png"
-      },
-      {
-        "name": "Ethereum Token",
-        "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
-        "symbol": "ETH",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378.png"
-      },
-      {
-        "name": "Tether USD",
-        "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-        "symbol": "USDT",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://tokens.bscswap.com/images/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png"
+        "name": "Pepe Token",
+        "address": "0x817cc27fae81dc224c9d23f8339b5fb6a0badeb3",
+        "symbol": "PEPE",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://francis-song.github.io/test-default-token-list/images/0x817cc27fae81dc224c9d23f8339b5fb6a0badeb3.png"
       },
       {
         "name": "Wrapped BNB",
@@ -76,6 +52,31 @@
         "decimals": 18,
         "chainId": 97,
         "logoURI": "https://tokens.bscswap.com/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
-      }
+      },
+        {
+          "name": "Pluto Token",
+          "address": "0xcfa016efbd72df3886d6185c801fbf8087aadeac",
+          "symbol": "PLUTO",
+          "decimals": 9,
+          "chainId": 97,
+          "logoURI": "https://francis-song.github.io/test-default-token-list/images/0x0c3ea5aac39101e5b3989b3f19181d8591b734d0.png"
+        },
+        {
+          "name": "Pepe Token",
+          "address": "0xad25ec5af5f7a7bb91a029186a702fad97bd709f",
+          "symbol": "PEPE",
+          "decimals": 18,
+          "chainId": 97,
+          "logoURI": "https://francis-song.github.io/test-default-token-list/images/0x817cc27fae81dc224c9d23f8339b5fb6a0badeb3.png"
+        },
+        {
+          "name": "BUSD Token",
+          "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+          "symbol": "BUSD",
+          "decimals": 18,
+          "chainId": 97,
+          "logoURI": "https://tokens.bscswap.com/images/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
+        }
+      
     ]
   }
